@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:37:32.159190
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:26
 #+TITLE: 楞嚴經要解
 #+PROPERTY: CBETA_ID X11n0270
 #+PROPERTY: ID KR6j0678
@@ -459,7 +459,7 @@
 要解卷第十九¶
 ¶
 
-音切¶
+*** 音切¶
 
 殫
 
